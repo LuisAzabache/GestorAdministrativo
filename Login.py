@@ -52,3 +52,4 @@ miLabel.place(x=294,y=300)
 
 root.mainloop()
 
+#Agrego para confirmar
